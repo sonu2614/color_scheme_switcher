@@ -1,0 +1,36 @@
+
+#orange{
+    background-color: orange;
+    
+}
+
+#yellow{
+    background-color: yellow;
+}
+
+#green{
+    background-color: green;
+}
+
+#pink{
+    background-color: pink;
+}
+
+span{
+    padding: 100px;
+    border: 2px solid black;
+    margin-left: 20px;
+    padding-top: 10px;
+}
+
+h2{
+    padding-top: 150px;
+}
+
+#class{
+    text-align: center;
+}
+
+.button:hover{
+    padding: 150px;
+}
